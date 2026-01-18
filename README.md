@@ -1,12 +1,12 @@
 # Plant_disease_classification
-# 🌱 Plant Disease Classification Using Deep Learning
+#  Plant Disease Classification Using Deep Learning
 
 This project implements an image-based plant disease classification system using a pretrained deep learning model.  
 The system takes a plant leaf image as input and predicts the corresponding disease class, helping in early detection and prevention of crop damage.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 - **Type:** Image Classification  
 - **Domain:** Agriculture / Computer Vision  
@@ -17,7 +17,7 @@ The model leverages **transfer learning** to achieve accurate disease recognitio
 
 ---
 
-## 🧠 Model Details
+##  Model Details
 
 - Uses a **pretrained CNN model**
 - Fine-tuned for **plant disease classification**
@@ -26,13 +26,13 @@ The model leverages **transfer learning** to achieve accurate disease recognitio
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 **Image Input → Preprocessing → Pretrained CNN → Prediction → Disease Output**
 
 ---
 
-## 🛠️ Technologies & Libraries Used
+##  Technologies & Libraries Used
 
 - Python  
 - TensorFlow / Keras  
@@ -42,7 +42,7 @@ The model leverages **transfer learning** to achieve accurate disease recognitio
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Open **Google Colab**
 2. Upload `plant.ipynb`
@@ -52,6 +52,6 @@ The model leverages **transfer learning** to achieve accurate disease recognitio
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This project demonstrates how pretrained deep learning models can be effectively applied to real-world agricultural problems, enabling accurate and efficient plant disease detection.
