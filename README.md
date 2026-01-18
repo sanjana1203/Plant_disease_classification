@@ -1,6 +1,5 @@
 # Plant_disease_classification
 #  Plant Disease Classification Using Deep Learning
-
 This project implements an image-based plant disease classification system using a pretrained deep learning model.  
 The system takes a plant leaf image as input and predicts the corresponding disease class, helping in early detection and prevention of crop damage.
 
